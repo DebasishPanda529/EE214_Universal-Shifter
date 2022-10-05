@@ -1,0 +1,18 @@
+Fitter Status : Successful - Tue Sep 06 11:11:11 2022
+Quartus Prime Version : 20.1.1 Build 720 11/11/2020 SJ Lite Edition
+Revision Name : Universal_Shifter
+Top-level Entity Name : TopLevel
+Family : MAX 10
+Device : 10M25SCE144C8G
+Timing Models : Final
+Total logic elements : 206 / 24,960 ( < 1 % )
+    Total combinational functions : 181 / 24,960 ( < 1 % )
+    Dedicated logic registers : 108 / 24,960 ( < 1 % )
+Total registers : 108
+Total pins : 5 / 101 ( 5 % )
+Total virtual pins : 0
+Total memory bits : 0 / 691,200 ( 0 % )
+Embedded Multiplier 9-bit elements : 0 / 110 ( 0 % )
+Total PLLs : 0 / 1 ( 0 % )
+UFM blocks : 0 / 1 ( 0 % )
+ADC blocks : 0
